@@ -1,5 +1,5 @@
 # Sapphire
-This is a Theme based on Sapphire most famous colors. Enjoy. Theme for https://omarchy.org/. 
+This is a Theme based on Sapphire most common diamond colors. Enjoy. Theme for https://omarchy.org/. 
 - VScode not supported yet - working on it <br>
 
 # Screenshots
