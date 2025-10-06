@@ -15,7 +15,7 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-sapphire-theme.gi
 ## Vesktop-Theme
 For Vesktop users, you can install this theme by copying the theme file to your Vesktop themes directory:
 ```bash
-cp system24-Sapphire.theme.css ~/.config/vesktop/themes/system24-Sapphire.theme.css
+cp system24-Sapphire.css ~/.config/vesktop/themes/system24-Sapphire.css
 ```
 
 ## Neovim-Theme
