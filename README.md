@@ -1,6 +1,5 @@
 # Sapphire
 This is a Theme based on Sapphire most common diamond colors. Enjoy. Theme for https://omarchy.org/. 
-- VScode not supported yet - working on it <br>
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-10-06_21-09-19" src="https://github.com/user-attachments/assets/e8d664bf-3337-4418-99f0-f0d3b9c7ed1b" />
@@ -23,6 +22,11 @@ cp system24-Sapphire.css ~/.config/vesktop/themes/system24-Sapphire.css
 - Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax <br>
 - Check https://github.com/bjarneo/pixel.nvim <br>
 - Make sure Lazyvim is update to date type :Lazy <br>
+
+## VSCode-Theme
+- Using Theme: - Sapphire Theme
+- Using Extension-ID: Tyriar.theme-sapphire
+- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Sapphire Theme
 
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
