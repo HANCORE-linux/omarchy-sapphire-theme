@@ -3,7 +3,8 @@ This is a Theme based on Sapphire most famous colors. Enjoy. Theme for https://o
 - VScode not supported yet - working on it <br>
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-10-06_20-43-47" src="https://github.com/user-attachments/assets/e0e6ba7d-bf5c-48c9-9632-0b01ba8d9f66" />
+<img width="2560" height="1440" alt="screenshot-2025-10-06_21-09-19" src="https://github.com/user-attachments/assets/e8d664bf-3337-4418-99f0-f0d3b9c7ed1b" />
+
 
 # Installation Theme
 
