@@ -134,7 +134,7 @@ body {
     /* other normally white text */
     --text-2: oklch(85% 0 0);
     /* headings and important text */
-    --text-3: #ced3e1;
+    --text-3: #E0F7FA;
     /* normal text */
     --text-4: #fef4d7;
     /* icon buttons and channels */
