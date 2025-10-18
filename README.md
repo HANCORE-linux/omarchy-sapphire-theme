@@ -2,7 +2,8 @@
 This is a Theme based on Sapphire most common diamond colors. Enjoy. Theme for https://omarchy.org/. 
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-10-06_21-09-19" src="https://github.com/user-attachments/assets/e8d664bf-3337-4418-99f0-f0d3b9c7ed1b" />
+<img width="2560" height="1440" alt="screenshot-2025-10-18_21-26-07" src="https://github.com/user-attachments/assets/46cbef4d-9238-4057-83c6-8493f909961d" />
+
 
 
 # Installation Theme
