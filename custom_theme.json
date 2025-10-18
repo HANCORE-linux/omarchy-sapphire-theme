@@ -1,7 +1,7 @@
 {
   "name": "Sapphire",
   "created_at": "2025-10-03T15:22:59.337573220+00:00",
-  "modified_at": "2025-10-06T18:34:30.883153983+00:00",
+  "modified_at": "2025-10-18T18:56:17.816097735+00:00",
   "apps": {
     "alacritty": {
       "colors": {
@@ -17,10 +17,10 @@
         },
         "cursor": {
           "cursor": "#6488EA",
-          "text": "#020b1f"
+          "text": "#060d1f"
         },
         "normal": {
-          "black": "#020b1f",
+          "black": "#060d1f",
           "blue": "#f2c8cb",
           "cyan": "#fef4d7",
           "green": "#6488EA",
@@ -30,7 +30,7 @@
           "yellow": "#d7ebe9"
         },
         "primary": {
-          "background": "#020b1f",
+          "background": "#060d1f",
           "dim_foreground": "#6488EA",
           "foreground": "#E0F7FA"
         },
@@ -58,8 +58,8 @@
       "colors": {
         "basic": {
           "hi_fg": "#fef4d7",
-          "inactive_fg": "#020b1f",
-          "main_bg": "#020b1f",
+          "inactive_fg": "#060d1f",
+          "main_bg": "#060d1f",
           "main_fg": "#d7ebe9",
           "proc_misc": "#8cc7bf",
           "selected_bg": "#d7ebe9",
@@ -139,7 +139,7 @@
       "used_start": "#8a8a8d"
     },
     "chromium": {
-      "theme_color": "#6488EA"
+      "theme_color": "#060d1f"
     },
     "ghostty": {
       "colors": {
@@ -155,10 +155,10 @@
         },
         "cursor": {
           "cursor": "#6488EA",
-          "text": "#020b1f"
+          "text": "#060d1f"
         },
         "normal": {
-          "black": "#020b1f",
+          "black": "#060d1f",
           "blue": "#f2c8cb",
           "cyan": "#fef4d7",
           "green": "#6488EA",
@@ -168,7 +168,7 @@
           "yellow": "#d7ebe9"
         },
         "primary": {
-          "background": "#020b1f",
+          "background": "#060d1f",
           "foreground": "#E0F7FA"
         },
         "selection": {
@@ -187,7 +187,7 @@
         "border_size": 2,
         "gaps_in": 3,
         "gaps_out": 3,
-        "inactive_border": "020b1f"
+        "inactive_border": "060d1f"
       }
     },
     "hyprlock": {
@@ -195,9 +195,9 @@
       "color": "12,12,12,1.0",
       "colors": {
         "check_color": "100,136,234,1.0",
-        "color": "2,11,31,1.0",
+        "color": "6,13,31,1.0",
         "font_color": "55,76,179,1.0",
-        "inner_color": "180,205,207,1.0",
+        "inner_color": "215,235,233,1.0",
         "outer_color": "100,136,234,1.0"
       },
       "font_color": "234,234,234,1.0",
@@ -221,10 +221,10 @@
         },
         "cursor": {
           "cursor": "#6488EA",
-          "text": "#020b1f"
+          "text": "#060d1f"
         },
         "normal": {
-          "black": "#020b1f",
+          "black": "#060d1f",
           "blue": "#a8b0e0",
           "cyan": "#fef4d7",
           "green": "#6488EA",
@@ -234,7 +234,7 @@
           "yellow": "#d7ebe9"
         },
         "primary": {
-          "background": "#020b1f",
+          "background": "#060d1f",
           "foreground": "#E0F7FA"
         },
         "selection": {
@@ -250,9 +250,9 @@
       "border_size": 2,
       "colors": {
         "normal": {
-          "background_color": "#b4cdcf",
+          "background_color": "#060d1f",
           "border_color": "#6488EA",
-          "text_color": "#374cb3"
+          "text_color": "#d7ebe9"
         }
       },
       "default_timeout": 5000,
@@ -291,12 +291,12 @@
       "base": "#121212",
       "border": "#EAEAEA88",
       "colors": {
-        "background": "#b4cdcf",
-        "base": "#b4cdcf",
+        "background": "#060d1f",
+        "base": "#060d1f",
         "border": "#6488EA",
-        "foreground": "#b4cdcf",
-        "selected_text": "#fef4d7",
-        "text": "#374cb3"
+        "foreground": "#d7ebe9",
+        "selected_text": "#374cb3",
+        "text": "#d7ebe9"
       },
       "foreground": "#EAEAEA",
       "selected_text": "#B91C1C",
@@ -306,7 +306,7 @@
       "background": "#1e1e1e",
       "colors": {
         "main": {
-          "background": "#030f29",
+          "background": "#060d1f",
           "foreground": "#d7ebe9"
         }
       },
@@ -315,7 +315,7 @@
   },
   "colors": {
     "primary": {
-      "background": "#020b1f",
+      "background": "#060d1f",
       "foreground": "#e0f7fa"
     },
     "terminal": {

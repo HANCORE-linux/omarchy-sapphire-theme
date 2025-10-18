@@ -4,9 +4,9 @@
  * ────────────────────────────────────────────────────────────
  */
 
-@define-color selected-text #fef4d7;
-@define-color text #374cb3;
-@define-color base #b4cdcf;
+@define-color selected-text #374cb3;
+@define-color text #d7ebe9;
+@define-color base #060d1f;
 @define-color border #6488EA;
-@define-color foreground #b4cdcf;
-@define-color background #b4cdcf;
+@define-color foreground #d7ebe9;
+@define-color background #060d1f;
