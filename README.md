@@ -1,5 +1,7 @@
 # Sapphire
-This is a Theme based on Sapphire most common diamond colors. Enjoy. Theme for https://omarchy.org/. 
+Inspired by the deep, timeless brilliance of sapphire gemstones — the rich blue base evokes clarity and depth, while touches of green, yellow and red bring life, precision and energy.
+This palette is chosen to reflect both calm concentration (blue) and subtle vitality (the accent colours), striking a balance between immersion and alertness.
+Crafted for a workspace that looks poised yet dynamic — where focus doesn’t feel sterile, but alive with possibility.
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-10-18_21-26-07" src="https://github.com/user-attachments/assets/46cbef4d-9238-4057-83c6-8493f909961d" />
