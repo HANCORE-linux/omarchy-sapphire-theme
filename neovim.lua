@@ -1,44 +1,38 @@
 return {
-    {
-        "bjarneo/aether.nvim",
-        name = "aether",
-        priority = 1000,
-        opts = {
-            disable_italics = false,
-            colors = {
-                -- Monotone shades (base00-base07)
-                base00 = "#060d1f", -- Default background
-                base01 = "#68728d", -- Lighter background (status bars)
-                base02 = "#060d1f", -- Selection background
-                base03 = "#68728d", -- Comments, invisibles
-                base04 = "#ff00ff", -- Dark foreground
-                base05 = "#f5ecf6", -- Default foreground
-                base06 = "#d7ebe9", -- Light foreground
-                base07 = "#ff00ff", -- Light background
+	{
+		"bjarneo/aether.nvim",
+		name = "aether-sapphire-ghostty-bg",
+		priority = 1000,
+		opts = {
+			disable_italics = false,
+			colors = {
+				base00 = "#060D1F", -- Background (Ghostty Sapphire)
+				base01 = "#1A2742", -- Panels / UI
+				base02 = "#1E2035", -- Selection / hover
+				base03 = "#5A6B8D", -- Comments / muted sapphire gray
+				base04 = "#B8D8E0", -- Midtone highlight
+				base05 = "#E0F7FA", -- Foreground / main text
+				base06 = "#F5FAFC", -- Emphasis / bright text
+				base07 = "#FFFFFF", -- Pure white
 
-                -- Accent colors (base08-base0F)
-                base08 = "#e95c4b", -- Variables, errors, red
-                base09 = "#efd588", -- Integers, constants, orange
-                base0A = "#6488ea", -- Classes, types, yellow
-                base0B = "#1e90ff", -- Strings, green
-                base0C = "#8cc7bf", -- Support, regex, cyan
-                base0D = "#374cb3", -- Functions, keywords, blue
-                base0E = "#d1d5f9", -- Keywords, storage, magenta
-                base0F = "#ff681f", -- Deprecated, brown/yellow
-            },
-        },
-        config = function(_, opts)
-            require("aether").setup(opts)
-            vim.cmd.colorscheme("aether")
-
-            -- Enable hot reload
-            require("aether.hotreload").setup()
-        end,
-    },
-    {
-        "LazyVim/LazyVim",
-        opts = {
-            colorscheme = "aether",
-        },
-    },
+				base08 = "#E95C4B", -- Errors / pink sapphire
+				base09 = "#EFD588", -- Constants / golden sapphire
+				base0A = "#5FA3E7", -- Classes / soft blue sapphire
+				base0B = "#4FD1C5", -- Strings / teal sapphire
+				base0C = "#8CC7BF", -- Support / pale teal
+				base0D = "#6488EA", -- Functions / main Ghostty sapphire
+				base0E = "#8A97FF", -- Keywords / violet sapphire
+				base0F = "#F49BA6", -- Deprecated / padparadscha
+			},
+		},
+		config = function(_, opts)
+			require("aether").setup(opts)
+			vim.cmd.colorscheme("aether")
+			require("aether.hotreload").setup()
+		end,
+	},
+	{
+		"LazyVim/LazyVim",
+		opts = { colorscheme = "aether" },
+	},
 }
