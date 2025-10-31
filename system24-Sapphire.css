@@ -134,23 +134,23 @@ body {
     /* other normally white text */
     --text-2: oklch(85% 0 0);
     /* headings and important text */
-    --text-3: #E0F7FA;
+    --text-3: #ffffff;
     /* normal text */
-    --text-4: #fef4d7;
+    --text-4: #efd588;
     /* icon buttons and channels */
-    --text-5: #f2c8cb;
+    --text-5: #6588EA;
     /* muted channels/chats and timestamps */
 
     /* background and dark colors */
     --bg-1: #060d1f;
     /* dark buttons when clicked */
-    --bg-2: oklch(27% 0 0);
+    --bg-2: #1A3A85;
     /* dark buttons */
-    --bg-3: oklch(23% 0 0);
+    --bg-3: #060d1f;
     /* spacing, secondary elements */
     --bg-4: #060d1f;
     /* main background color */
-    --hover: #030f29;
+    --hover: #1A3A85;
     /* channels and buttons when hovered */
     --active: oklch(54% 0 0 / 0.2);
     /* channels and buttons when clicked or selected */
@@ -162,15 +162,15 @@ body {
     /* accent colors */
     --accent-1: #e95c4b;
     /* links and other accent text */
-    --accent-2: #FFE5B4;
+    --accent-2: #d78a90;
     /* small accent elements */
-    --accent-3: #8cc7bf;
+    --accent-3: #a0c8c4;
     /* accent buttons */
-    --accent-4: var(--grey-4);
+    --accent-4: #d78a90;
     /* accent buttons when hovered */
-    --accent-5: var(--grey-5);
+    --accent-5: #1A3A85;
     /* accent buttons when clicked */
-    --accent-new: #d7ebe9;
+    --accent-new: #B7F5E9;
     /* stuff that's normally red like mute/deafen buttons */
     --mention: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 90%) 40%, transparent);
     /* background of messages that mention you */
@@ -198,7 +198,7 @@ body {
     /* general light border color */
     --border: var(--active);
     /* general normal border color */
-    --border-hover: #374cb3;
+    --border-hover: #6488EA;
     /* border color of panels when hovered */
     --button-border: hsl(220, 0%, 100%, 0.1);
     /* neutral border color of buttons */
