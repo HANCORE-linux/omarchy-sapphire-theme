@@ -22,18 +22,13 @@ For Vesktop users, you can install this theme by copying the theme file to your 
 cp system24-Sapphire.css ~/.config/vesktop/themes/system24-Sapphire.css
 ```
 
-## Neovim-Theme
-- Using https://github.com/bjarneo Pixel Theme which use the colors from terminal syntax <br>
-- Check https://github.com/bjarneo/pixel.nvim <br>
-- Make sure Lazyvim is update to date type :Lazy <br>
-
-## VSCode-Theme
-- Using Theme: - Sapphire Theme
-- Using Extension-ID: Tyriar.theme-sapphire
-- If Theme is not getting installed , do it manually: Open VSCode > Click on Extensions > type: Sapphire Theme
+## VSCode, ZED, Spotify , GTK Support
+- all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
+- VSCode: click on manage (left down corner) > Themes > Color Theme > search for Omarchy
 
 ## Waybar-Theme
-For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+For my Waybar-Theme (V3-border2 in Screenshot) simply check my Link https://github.com/HANCORE-linux/waybar-themes
+
 
 ### License
 MIT
