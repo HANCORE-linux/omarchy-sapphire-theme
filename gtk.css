@@ -1,21 +1,21 @@
-    @define-color background     #060d1f;
+    @define-color background     #0A1429;
     @define-color foreground     #E0F7FA;
-    @define-color black          #060d1f;
+    @define-color black          #0A1429;
     @define-color red            #e95c4b;
     @define-color green          #6488EA;
     @define-color yellow         #d7ebe9;
-    @define-color blue           #f2c8cb;
-    @define-color magenta        #8cc7bf;
-    @define-color cyan           #fef4d7;
-    @define-color white          #ffffff;
-    @define-color bright_black   #1A3A85;
-    @define-color bright_red     #e95c4b;
-    @define-color bright_green   #6488EA;
-    @define-color bright_yellow  #d7ebe9;
-    @define-color bright_blue    #f2c8cb;
-    @define-color bright_magenta #8cc7bf;
-    @define-color bright_cyan    #fef4d7;
-    @define-color bright_white   #ffffff;
+    @define-color blue           #ceabad;
+    @define-color magenta        #77aaa2;
+    @define-color cyan           #d8d0b7;
+    @define-color white          #e3e9f3;
+    @define-color bright_black   #8DAFE2;
+    @define-color bright_red     #ed7b6d;
+    @define-color bright_green   #819fee;
+    @define-color bright_yellow  #dfefed;
+    @define-color bright_blue    #f3ced0;
+    @define-color bright_magenta #98cdc5;
+    @define-color bright_cyan    #fef5db;
+    @define-color bright_white   #f6f9ff;
 
     @define-color accent_bg_color @blue;
     @define-color accent_fg_color @background;
@@ -31,11 +31,11 @@
     @define-color sidebar_backdrop_color @black;
     @define-color sidebar_shade_color @black;
 
-    @define-color headerbar_bg_color alpha(@foreground, 0.1);
+    @define-color headerbar_bg_color @background;
     @define-color headerbar_fg_color @foreground;
     @define-color headerbar_backdrop_color @black;
     @define-color headerbar_shade_color @black;
-    @define-color card_bg_color alpha(@foreground, 0.1);
+    @define-color card_bg_color @background;
     @define-color card_fg_color @foreground;
 
     @define-color popover_bg_color @black;

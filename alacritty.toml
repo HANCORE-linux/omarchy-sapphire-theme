@@ -5,12 +5,12 @@
 
 [colors]
 [colors.primary]
-background = "#060d1f"
+background = "#0A1429"
 foreground = "#E0F7FA"
 dim_foreground = "#6488EA"
 
 [colors.cursor]
-text = "#060d1f"
+text = "#0A1429"
 cursor = "#6488EA"
 
 [colors.selection]
@@ -18,21 +18,21 @@ text = "#374cb3"
 background = "#d7ebe9"
 
 [colors.normal]
-black = "#060d1f"
+black = "#0A1429"
 red = "#e95c4b"
 green = "#6488EA"
 yellow = "#d7ebe9"
-blue = "#f2c8cb"
-magenta = "#8cc7bf"
-cyan = "#fef4d7"
-white = "#ffffff"
+blue = "#ceabad"
+magenta = "#77aaa2"
+cyan = "#d8d0b7"
+white = "#e3e9f3"
 
 [colors.bright]
-black = "#1A3A85"
-red = "#e95c4b"
-green = "#6488EA"
-yellow = "#d7ebe9"
-blue = "#f2c8cb"
-magenta = "#8cc7bf"
-cyan = "#fef4d7"
-white = "#ffffff"
+black = "#8DAFE2"
+red = "#ed7b6d"
+green = "#819fee"
+yellow = "#dfefed"
+blue = "#f3ced0"
+magenta = "#98cdc5"
+cyan = "#fef5db"
+white = "#f6f9ff"

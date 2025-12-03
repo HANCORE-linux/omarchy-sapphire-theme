@@ -4,7 +4,7 @@
 # ────────────────────────────────────────────────────────────
 
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#060d1f"
+theme[main_bg]="#0A1429"
 
 # Main text color
 theme[main_fg]="#d7ebe9"
@@ -22,7 +22,7 @@ theme[selected_bg]="#d7ebe9"
 theme[selected_fg]="#374cb3"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#060d1f"
+theme[inactive_fg]="#0A1429"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#8cc7bf"
@@ -40,12 +40,12 @@ theme[net_box]="#d7ebe9"
 theme[proc_box]="#d7ebe9"
 
 # Box divider line and small boxes line color
-theme[div_line]="#d7ebe9"
+theme[div_line]="#fef4d7"
 
 # Temperature graph colors
 theme[temp_start]="#d7ebe9"
 theme[temp_mid]="#9ca8c2"
-theme[temp_end]="#374cb3"
+theme[temp_end]="#fef4d7"
 
 # CPU graph colors
 theme[cpu_start]="#d7ebe9"
@@ -55,29 +55,29 @@ theme[cpu_end]="#f2c8cb"
 # Mem/Disk free meter
 theme[free_start]="#d7ebe9"
 theme[free_mid]="#9ca8c2"
-theme[free_end]="#374cb3"
+theme[free_end]="#fef4d7"
 
 # Mem/Disk cached meter
 theme[cached_start]="#d7ebe9"
 theme[cached_mid]="#9ca8c2"
-theme[cached_end]="#374cb3"
+theme[cached_end]="#fef4d7"
 
 # Mem/Disk available meter
 theme[available_start]="#d7ebe9"
 theme[available_mid]="#9ca8c2"
-theme[available_end]="#374cb3"
+theme[available_end]="#fef4d7"
 
 # Mem/Disk used meter
 theme[used_start]="#d7ebe9"
 theme[used_mid]="#9ca8c2"
-theme[used_end]="#374cb3"
+theme[used_end]="#fef4d7"
 
 # Download graph colors
 theme[download_start]="#d7ebe9"
 theme[download_mid]="#9ca8c2"
-theme[download_end]="#374cb3"
+theme[download_end]="#fef4d7"
 
 # Upload graph colors
 theme[upload_start]="#d7ebe9"
 theme[upload_mid]="#9ca8c2"
-theme[upload_end]="#374cb3"
+theme[upload_end]="#fef4d7"

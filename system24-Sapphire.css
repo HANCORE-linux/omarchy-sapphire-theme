@@ -142,13 +142,13 @@ body {
     /* muted channels/chats and timestamps */
 
     /* background and dark colors */
-    --bg-1: #060d1f;
+    --bg-1: #0A1429;
     /* dark buttons when clicked */
     --bg-2: #1A3A85;
     /* dark buttons */
-    --bg-3: #060d1f;
+    --bg-3: #0A1429;
     /* spacing, secondary elements */
-    --bg-4: #060d1f;
+    --bg-4: #0A1429;
     /* main background color */
     --hover: #1A3A85;
     /* channels and buttons when hovered */
