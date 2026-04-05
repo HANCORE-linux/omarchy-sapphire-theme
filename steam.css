@@ -1,8 +1,8 @@
 :root {
     /* The main accent color and the matching text value */
-    --adw-accent-bg-rgb: 206, 171, 173 !important;
+    --adw-accent-bg-rgb: 247, 195, 198 !important;
     --adw-accent-fg-rgb: 10, 20, 41 !important;
-    --adw-accent-rgb: 206, 171, 173 !important;
+    --adw-accent-rgb: 247, 195, 198 !important;
 
 	/* destructive-action buttons */
     --adw-destructive-bg-rgb: 233, 92, 75 !important;
@@ -14,10 +14,10 @@
     --adw-success-fg-rgb: 10, 20, 41 !important;
     --adw-success-rgb: 100, 136, 234 !important;
 
-    --adw-warning-bg-rgb: 223, 239, 237 !important;
+    --adw-warning-bg-rgb: 215, 235, 233 !important;
     --adw-warning-fg-rgb: 10, 20, 41 !important;
     --adw-warning-fg-a: 0.8 !important;
-    --adw-warning-rgb: 223, 239, 237 !important;
+    --adw-warning-rgb: 215, 235, 233 !important;
 
     --adw-error-bg-rgb: 233, 92, 75 !important;
     --adw-error-fg-rgb: 10, 20, 41 !important;
@@ -34,7 +34,7 @@
 	/* Header bar, search bar, tab bar */
     --adw-headerbar-bg-rgb: 10, 20, 41 !important;
     --adw-headerbar-fg-rgb: 224, 247, 250 !important;
-    --adw-headerbar-border-rgb: 141, 175, 226 !important;
+    --adw-headerbar-border-rgb: 81, 104, 142 !important;
     --adw-headerbar-backdrop-rgb: 10, 20, 41 !important;
     --adw-headerbar-shade-rgb: 0, 0, 0 !important;
     --adw-headerbar-shade-a: 0.36 !important;
@@ -44,12 +44,12 @@
 	/* Split pane views */
     --adw-sidebar-bg-rgb: 10, 20, 41 !important;
     --adw-sidebar-fg-rgb: 224, 247, 250 !important;
-    --adw-sidebar-backdrop-rgb: 141, 175, 226 !important;
+    --adw-sidebar-backdrop-rgb: 81, 104, 142 !important;
     --adw-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-sidebar-shade-a: 0.36 !important;
     --adw-secondary-sidebar-bg-rgb: 10, 20, 41 !important;
     --adw-secondary-sidebar-fg-rgb: 224, 247, 250 !important;
-    --adw-secondary-sidebar-backdrop-rgb: 141, 175, 226 !important;
+    --adw-secondary-sidebar-backdrop-rgb: 81, 104, 142 !important;
     --adw-secondary-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-secondary-sidebar-shade-a: 0.36 !important;
 

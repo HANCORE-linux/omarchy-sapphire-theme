@@ -3,19 +3,19 @@
     @define-color black          #0A1429;
     @define-color red            #e95c4b;
     @define-color green          #6488EA;
-    @define-color yellow         #d7ebe9;
-    @define-color blue           #ceabad;
-    @define-color magenta        #77aaa2;
-    @define-color cyan           #d8d0b7;
-    @define-color white          #e3e9f3;
-    @define-color bright_black   #8DAFE2;
+    @define-color yellow         #d5edeb;
+    @define-color blue           #f7c3c6;
+    @define-color magenta        #85cec4;
+    @define-color cyan           #fff6d2;
+    @define-color white          #e1e9f5;
+    @define-color bright_black   #51688E;
     @define-color bright_red     #ed7b6d;
     @define-color bright_green   #819fee;
-    @define-color bright_yellow  #dfefed;
-    @define-color bright_blue    #f3ced0;
-    @define-color bright_magenta #98cdc5;
-    @define-color bright_cyan    #fef5db;
-    @define-color bright_white   #f6f9ff;
+    @define-color bright_yellow  #d7ebe9;
+    @define-color bright_blue    #f2c8cb;
+    @define-color bright_magenta #8cc7bf;
+    @define-color bright_cyan    #fef4d7;
+    @define-color bright_white   #c8cbd0;
 
     @define-color accent_bg_color @blue;
     @define-color accent_fg_color @background;
@@ -160,7 +160,7 @@
         background-color: @red;
     }
 
-    .svg-icon {
+    /* .svg-icon {
         filter: invert(79%) sepia(18%) saturate(611%) hue-rotate(192deg)
             brightness(103%) contrast(94%);
-    }
+    } */
