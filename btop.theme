@@ -49,7 +49,7 @@ theme[temp_end]="#fef4d7"
 
 # CPU graph colors
 theme[cpu_start]="#d7ebe9"
-theme[cpu_mid]="#374cb3"
+theme[cpu_mid]="#6488EA"
 theme[cpu_end]="#f2c8cb"
 
 # Mem/Disk free meter
