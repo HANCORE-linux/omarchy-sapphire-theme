@@ -11,11 +11,11 @@ footer_border_active = '#f7c3c6'
 modal_border_active = '#f7c3c6'
 
 # ========= Background (bg) =========
-full_screen_bg = '#0A1429'
-file_panel_bg = '#0A1429'
-sidebar_bg = '#0A1429'
-footer_bg = '#0A1429'
-modal_bg = '#0A1429'
+full_screen_bg = '#060d1f'
+file_panel_bg = '#060d1f'
+sidebar_bg = '#060d1f'
+footer_bg = '#060d1f'
+modal_bg = '#060d1f'
 
 # ========= Foreground (fg) =========
 full_screen_fg = '#E0F7FA'
@@ -30,18 +30,18 @@ correct = '#6488EA'
 error = '#e95c4b'
 hint = '#fff6d2'
 cancel = '#e95c4b'
-gradient_color = ['#0A1429', "#51688E"]
+gradient_color = ['#060d1f', "#51688E"]
 
 # ========= File Panel Special Items =========
-file_panel_top_directory_icon = '#0A1429'
+file_panel_top_directory_icon = '#060d1f'
 file_panel_top_path = '#51688E'
 file_panel_item_selected_fg = '#51688E'
-file_panel_item_selected_bg = '#0A1429'
+file_panel_item_selected_bg = '#060d1f'
 
 # ========= Sidebar Special Items =========
 sidebar_title = '#c8cbd0'
 sidebar_item_selected_fg = '#51688E'
-sidebar_item_selected_bg = '#0A1429'
+sidebar_item_selected_bg = '#060d1f'
 sidebar_divider = '#e1e9f5'
 
 # ========= Modal Special Items =========
