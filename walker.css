@@ -64,11 +64,11 @@ window .preview {
 /* --- Selection States --- */
 child:selected {
   border-left: 10px solid alpha(#ceabad, 1);
-  background-color: alpha(@text, 1);
   border-radius: 1px;
 }
 
 child:selected .item-box {
   padding-top: 4px;
   margin-left: 0px;
+  border-left: 10px solid alpha(#ceabad, 1);
 }
