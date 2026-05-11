@@ -59,9 +59,12 @@ child:selected .item-box {
     padding: 4px 8px;
     margin: 1px 4px;
     border-radius: 1px;
-    background: linear-gradient(90deg,
-        alpha(@accent, 0.20) 10%,
-        alpha(@border, 0.45) 100%);
+   background: linear-gradient(
+    135deg,
+    alpha(@accent, 0.25) 0%,
+    alpha(mix(@accent, #6488EA, 0.7), 0.92) 45%,
+    alpha(#4A6FD6, 0.88) 75%,
+    alpha(#3557B7, 0.92) 100%);
     border-left: 4px solid @accent;
     color: @selection-fg;
 }
