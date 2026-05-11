@@ -4,7 +4,8 @@ This palette is chosen to reflect both calm concentration (blue) and subtle vita
 Crafted for a workspace that looks poised yet dynamic — where focus doesn’t feel sterile, but alive with possibility.
 
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-12-03_14-38-10" src="https://github.com/user-attachments/assets/df0f58b3-1a8f-465a-8481-daf39853652a" />
+<img width="2560" height="1440" alt="screenshot-2026-05-11_20-22-36" src="https://github.com/user-attachments/assets/e053057d-64ee-4495-915b-f1d8ef4763ae" />
+
 
 
 
